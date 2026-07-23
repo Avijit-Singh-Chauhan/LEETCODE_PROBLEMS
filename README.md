@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
