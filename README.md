@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
