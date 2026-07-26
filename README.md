@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
