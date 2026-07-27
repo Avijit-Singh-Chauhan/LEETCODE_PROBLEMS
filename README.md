@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
