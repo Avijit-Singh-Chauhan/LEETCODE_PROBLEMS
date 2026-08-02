@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
