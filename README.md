@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0486-predict-the-winner) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Avijit-Singh-Chauhan/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
